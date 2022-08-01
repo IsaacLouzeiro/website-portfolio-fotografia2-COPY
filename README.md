@@ -8,7 +8,7 @@
 
 ### -- About
 
-#### Photograpy portfolio developed for the photographer Leandro Louzeiro. version 2.0
+#### Photograpy portfolio developed for the photographer Leandro Louzeiro. version 2.0. COPY, not to compromise sensitive data.
 
 ### -- Technologies
 
@@ -28,7 +28,7 @@
 
 ### -- Sobre
 
-#### Portfolio de fotografia desenvolvido para o fotógrafo Leandro Louzeiro. Versão 2.0
+#### Portfolio de fotografia desenvolvido para o fotógrafo Leandro Louzeiro. Versão 2.0. COPIA, Para não comprometer dados sensíveis.
 
 ### -- Tecnologias
 
